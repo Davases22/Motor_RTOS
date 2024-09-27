@@ -1,0 +1,3 @@
+./objects/pcf8574.o: ..\LIBRERIAS\PCF8574\PCF8574.cpp \
+  ..\LIBRERIAS\PCF8574\PCF8574.h ..\LIBRERIAS\I2c\I2cBus.h \
+  ..\LIBRERIAS\Bus\Bus.h ..\LIBRERIAS\Bit\Bit.h
